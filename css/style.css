@@ -3,6 +3,7 @@ body {
     font-family: "Montserrat",sans-serif;
     font-size: 12px;
     margin-top:50px;
+    background-color: #f3f3f3;
 }
 ul {
     list-style: outside none none;
