@@ -101,31 +101,11 @@
 .social-icons .fa-windows{background-color:#12B6F3;}
 .social-icons .fa-xing,.social-icons .fa-xing-square{background-color:#00555C;} 
 .social-icons .fa-youtube,.social-icons .fa-youtube-play,.social-icons .fa-youtube-square{background-color:#C52F30;}
- 
 
 
 
 
-
-
- .icon-list li {
-  padding: 0 0 5px 20px;
-  display: block;
-  position: relative;
-}
-.icon-list li:before {
-  position: absolute;
-  left: 0px;
-  top:3px;
-}
-.chevron-right li:before {
- content: '\e080';
-}
-
-.checkmark li:before {
- content: '\e067';
-}
-
-.arrow-right li:before {
- content: '\e092';
+.project-image {
+    height: 197px;
+    width: 273px;
 }
