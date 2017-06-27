@@ -167,13 +167,14 @@ section.first {
 }
 }
 #portfolio .portfolio-item {
-    margin: 0 0 15px;
+    margin: 0;
+    padding: 15px 10px 0;
     right: 0;
 }
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 337px;
     position: relative;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -208,7 +209,6 @@ section.first {
 }
 @media (min-width: 767px) {
 #portfolio .portfolio-item {
-    margin: 0 0 30px;
 }
 }
 .floating-label-form-group {
